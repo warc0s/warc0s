@@ -17,8 +17,6 @@ I'm currently pursuing a **Master's in Artificial Intelligence and Big Data** at
 *A Keras-based binary classifier utilizing DenseNet121 to differentiate between fox and non-fox images. This was my first advanced deep learning project, enhancing my skills in data preprocessing, model training, and deployment. This is my first advanced deep learning project. I apologize for any inefficiencies in the implementation and am eager to receive feedback and suggestions to improve my work.*
 
 ### [Gather-Tracker](https://github.com/Warc0s/Gather-Tracker)
-![Gather-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=warc0s&repo=Gather-Tracker)
-
 *A JavaScript script for monitoring user activities and messaging within a Gather Town office, integrated with Telegram for real-time notifications. This project strengthened my abilities in JavaScript, API integration, and real-time data handling.*
 
 ## 📈 GitHub Stats
