@@ -13,9 +13,7 @@ I'm currently pursuing a **Master's in Artificial Intelligence and Big Data** at
 
 ## 🚀 Projects
 
-### [Fox-Detector](https://github.com/yourusername/Fox-Detector)
-![Fox-Detector](https://github-readme-stats.vercel.app/api/pin/?username=warc0s&repo=Fox-Detector)
-
+### [Fox-Detector](https://github.com/warc0s/Fox-Detector)
 *A Keras-based binary classifier utilizing DenseNet121 to differentiate between fox and non-fox images. This was my first advanced deep learning project, enhancing my skills in data preprocessing, model training, and deployment.*
 
 ### [Gather-Tracker](https://github.com/Warc0s/Gather-Tracker)
@@ -25,7 +23,7 @@ I'm currently pursuing a **Master's in Artificial Intelligence and Big Data** at
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=warc0s&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=warc0s&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=warc0s&layout=compact&theme=radical)
 
 ## 📫 Get in Touch
