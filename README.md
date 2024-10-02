@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Marcos 👋
 
 I'm currently pursuing a **Master's in Artificial Intelligence and Big Data** at **Accenture**. Passionate about leveraging machine learning and data analysis to build intelligent solutions that drive meaningful impact. I'm eager to contribute to innovative projects and continuously expand my expertise in the field.
 
@@ -14,19 +14,19 @@ I'm currently pursuing a **Master's in Artificial Intelligence and Big Data** at
 ## 🚀 Projects
 
 ### [Fox-Detector](https://github.com/yourusername/Fox-Detector)
-![Fox-Detector](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Fox-Detector)
+![Fox-Detector](https://github-readme-stats.vercel.app/api/pin/?username=warc0s&repo=Fox-Detector)
 
 *A Keras-based binary classifier utilizing DenseNet121 to differentiate between fox and non-fox images. This was my first advanced deep learning project, enhancing my skills in data preprocessing, model training, and deployment.*
 
-### [Gather-Tracker](https://github.com/yourusername/Gather-Tracker)
-![Gather-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Gather-Tracker)
+### [Gather-Tracker](https://github.com/Warc0s/Gather-Tracker)
+![Gather-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=warc0s&repo=Gather-Tracker)
 
 *A JavaScript script for monitoring user activities and messaging within a Gather Town office, integrated with Telegram for real-time notifications. This project strengthened my abilities in JavaScript, API integration, and real-time data handling.*
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=warc0s&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=warc0s&layout=compact&theme=radical)
 
 ## 📫 Get in Touch
 
