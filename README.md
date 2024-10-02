@@ -14,7 +14,7 @@ I'm currently pursuing a **Master's in Artificial Intelligence and Big Data** at
 ## 🚀 Projects
 
 ### [Fox-Detector](https://github.com/warc0s/Fox-Detector)
-*A Keras-based binary classifier utilizing DenseNet121 to differentiate between fox and non-fox images. This was my first advanced deep learning project, enhancing my skills in data preprocessing, model training, and deployment.*
+*A Keras-based binary classifier utilizing DenseNet121 to differentiate between fox and non-fox images. This was my first advanced deep learning project, enhancing my skills in data preprocessing, model training, and deployment. This is my first advanced deep learning project. I apologize for any inefficiencies in the implementation and am eager to receive feedback and suggestions to improve my work.*
 
 ### [Gather-Tracker](https://github.com/Warc0s/Gather-Tracker)
 ![Gather-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=warc0s&repo=Gather-Tracker)
@@ -28,8 +28,4 @@ I'm currently pursuing a **Master's in Artificial Intelligence and Big Data** at
 
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin/)
-
----
-
-*This is my first advanced deep learning project. I apologize for any inefficiencies in the implementation and am eager to receive feedback and suggestions to improve my work. I'm open to opportunities and collaborations in the field of artificial intelligence and big data.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosgarest/)
