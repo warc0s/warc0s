@@ -1,6 +1,6 @@
 # Hi, I'm Marcos 👋
 
-I'm currently pursuing a **Master's in Artificial Intelligence and Big Data** at **CPIFP Alan Turing**. Passionate about leveraging machine learning and data analysis to build intelligent solutions that drive meaningful impact. I'm eager to contribute to innovative projects and continuously expand my expertise in the field.
+I'm currently pursuing a **Master's in Artificial Intelligence and Big Data** at **CPIFP Alan Turing**. Passionate about leveraging machine learning to build intelligent solutions that drive meaningful impact. I'm eager to contribute to innovative projects and continuously expand my expertise in the field.
 
 ## 🔧 Skills
 
