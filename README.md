@@ -104,7 +104,9 @@ AI Engineer specializing in multiagent systems and automated ML pipelines. I com
 
 <div align="center">
   
-### ✨ MIDAS - Multi-Intelligent Development Automation System ✨
+### ✨ MIDAS - Multi-agent Intelligent Data Automation System ✨
+
+[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/warc0s/MIDAS)
   
 </div>
 
