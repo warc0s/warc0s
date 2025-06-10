@@ -13,7 +13,7 @@
 
 <div align="center">
   
-*Master's in Artificial Intelligence & Big Data @ CPIFP Alan Turing*
+*Full Stack LLM Development Analyst @ Accenture Spain*
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
