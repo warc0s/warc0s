@@ -95,37 +95,6 @@ AI Engineer specializing in multiagent systems and automated ML pipelines. I com
 
 </div>
 
-<!-- MIDAS Project -->
-<h2 align="center">🚀 Featured Project</h2>
-
-<p align="center">
-  <img src="https://github.com/warc0s/MIDAS/raw/main/Extra/logo1.png" width="300" alt="MIDAS Logo">
-</p>
-
-<div align="center">
-  
-### ✨ MIDAS - Multi-agent Intelligent Data Automation System ✨
-
-[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/warc0s/MIDAS)
-  
-</div>
-
-<details>
-<summary align="center"><b>🔍 Expand to learn more about MIDAS</b></summary>
-<div>
-<br>
-<div align="center">
-<img src="https://img.shields.io/badge/Architecture-Multi--Agent-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Components-8-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/Status-Master's_Thesis-orange?style=flat-square"/>
-</div>
-<br>
-<p align="center">
-MIDAS is my Master's thesis project that transforms ML development through an innovative 8-component agent architecture. The system automates the entire machine learning lifecycle, making advanced AI accessible to professionals of all skill levels by handling everything from data generation to model deployment through intuitive natural language interactions.
-</p>
-</div>
-</details>
-
 <!-- Animated Wave -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
@@ -135,8 +104,8 @@ MIDAS is my Master's thesis project that transforms ML development through an in
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=warc0s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warc0s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=warc0s&theme=tokyonight" height="170px" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=warc0s&theme=tokyonight" height="170px" alt="Top Languages"/>
 </div>
 
 <br>
