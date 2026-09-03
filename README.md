@@ -2,7 +2,7 @@
 
 # Marcos Garcia Estevez
 
-**AI Engineer** — multi-agent LLM systems, RAG & ML automation
+**AI Engineer** - multi-agent LLM systems, RAG & ML automation
 
 Full Stack LLM Development Analyst @ Accenture Spain - Málaga
 
